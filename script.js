@@ -2,7 +2,7 @@ $(function(){
     // Defina a senha correta
     const correctPassword = "pbsapmn";
     // Defina a URL para redirecionamento
-    const redirectUrl = "photos/dist/index.html"; // Corrigido o caminho
+    const redirectUrl = "https://lusquiinhaa.github.io/photos/"; // Corrigido o caminho
 
     $("#login").submit(function(e){
         e.preventDefault();
